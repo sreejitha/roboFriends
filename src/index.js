@@ -1,8 +1,8 @@
 import React from "react";
-import CardList from "./CardList";
+import CardList from "./components/CardList";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./App";
+import App from "./containers/App";
 import "tachyons";
 import { robots } from "./robot";
 import reportWebVitals from "./reportWebVitals";
